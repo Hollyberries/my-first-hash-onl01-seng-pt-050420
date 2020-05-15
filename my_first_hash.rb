@@ -1,16 +1,14 @@
 def my_hash
   my_hash = {"name" => "Holly", "job" => "student"}
-  
 end
 
 
 def shipping_manifest
-  the manifest = {"whale bone corsets" => "5",  }
-  # fill that hash with key/value pairs that describe the following information: 
-  # We have 5 whale bone corsets, 2 porcelain vases and 3 oil paintings 
-
-
+  the manifest = {"whale bone corsets" => "5", "porcelain vases" => "2", "oil paintings" => 3}
 end
+
+
+
 
 def retrieval
   shipping_manifest = {
